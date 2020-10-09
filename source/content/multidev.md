@@ -85,7 +85,7 @@ Combine contents of a&nbsp;branch into another, like a bug fix branch into maste
 
 </dd>
 
-<dt>master</dt>
+<dt class="noglossary">master</dt>
 
 <dd>
 
